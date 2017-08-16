@@ -1,37 +1,40 @@
 Content Mods: 
-  Immersive engineering
-  Immersive petroleum
-  Better with mods
-  ?Better with addons
-  Forestry
-  Pam's HarvestCraft
-  Cooking for blockheads
-  Tinkers Construct
-  Embers
-  Roots
-  Astral Sorcery 
-  Botania
-  Totemic
-  Quark
-  Nether Chest
-  Rustic
-  Charcoal Pit
+  Immersive engineering - Turn off ore gen; might tweak power levels
+  Immersive petroleum - potentialy adding more to distilling tower, need ideas
+  Better with mods - turn off half of the hardcore mods, needs extensive testing
+  ?Better with addons - turn off some of the modules 
+  ??Primal Core - needs thourough integration potential review
+  Forestry - no changes other than recipe cohesian 
+    - Might add more bees
+  Pam's HarvestCraft - tweak garden prevelence
+  Cooking for blockheads - sink needs water pumped in; might have stove require oil as fuel
+  Tinkers Construct - no changes other than recipe cohesian
+  Embers - no changes other than recipe cohesian
+  Roots - integration with other magic mods
+  Astral Sorcery - config review
+  Botania - integration with other magic mods
+  Totemic - integration with other magic mods
+  Quark - slight tweaking
+  ?Nether Chest - config review
+  Rustic - config review
+  Charcoal Pit - just needs recipie cohesian
   ?Impractical Storage (Hasen't been touched by auther since April)
-  Storage Drawers
-  Mana Wells Revived
+  Storage Drawers - no changes, might change recipie for controller
+  ?Mana Wells Revived - no change
   ?Redstone Paste(1.11 only for now) - Either this or some other simple redstone mod
-  ??Soul Shards: The old Ways
+  ??Soul Shards: The old Ways - Want some way to make spawner control, might forgo this and just make recipes
   Aether Legacy(1.11 for now) - Either this or some other unique dimension mod
   
 Biome and structure:
-  Recurrent Complex
-  ?Traverse
-  ??NetherEx
+  Recurrent Complex - add, remove, tweak structures; test structure ratio
+  ?Traverse - no BoP, but want some sort of world gen mod
+  ??NetherEx - needs full review for integration, rather unsure
  
 Modded Mobs:
   ?Mowzie's Mobs
   Ender Zoo(1.11) - (I really like owls)
-  ??Animania (I've had issues with this hitting TPS)
+  ??Animania (I've had issues with this hitting TPS) - I like it but I may just set it to only vanilla animals if they interact with
+          the blocks in the mod. 
   
 Gameplay change mods:
   Nutrition (SquareWheel)
@@ -44,9 +47,10 @@ Gameplay change mods:
   Restricted Portals
   Grave Stone (not sure which one)
   Dense Ore
+  Carry On
   
 Core Mods:
-  Cofh Core 
+  Cofh Core - Unique ore gen, large veins that are sparse and biome specific
   Mantle
   Baubles
   CraftTweaker
@@ -54,7 +58,7 @@ Core Mods:
 Quality of Life Mods:
   Bed Bugs
   SwingThroughGrass
-  Morpheus
+  ?Morpheus
   Better Foliage
   BetterFPS
   Dynamic Surroundings
@@ -75,3 +79,4 @@ Aesthetic:
   Chisel and Bits
   Fairy Lights
   (Unspecified Furniture mod, Maybe BiblioCraft)
+  Rainbow Oak Trees - Because pretty 
