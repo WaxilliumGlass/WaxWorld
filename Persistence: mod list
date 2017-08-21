@@ -1,53 +1,54 @@
 Content Mods: 
   Immersive engineering - Turn off ore gen; might tweak power levels
-  Immersive petroleum - potentialy adding more to distilling tower, need ideas
+  Immersive petroleum - potentialy adding more to distilling tower and liquid reservoirs, need ideas
   Better with mods - turn off half of the hardcore mods, needs extensive testing
   ?Better with addons - turn off some of the modules 
   ??Primal Core - needs thourough integration potential review
-  Forestry - no changes other than recipe cohesian 
+  Forestry - no changes other than recipe cohesion 
     - Might add more bees
   Pam's HarvestCraft - tweak garden prevelence
   Cooking for blockheads - sink needs water pumped in; might have stove require oil as fuel
-  Tinkers Construct - no changes other than recipe cohesian
-  Embers - no changes other than recipe cohesian
+  Tinkers Construct - no changes other than recipe cohesion
+  Embers - no changes other than recipe cohesion
   Roots - integration with other magic mods
   Astral Sorcery - config review
-  Botania - integration with other magic mods
+  Botania(1.11 currently... soon) - integration with other magic mods
   Totemic - integration with other magic mods
   Quark - slight tweaking
   ?Nether Chest - config review
-  Rustic - config review
-  Charcoal Pit - just needs recipie cohesian
-  ?Impractical Storage (Hasen't been touched by auther since April)
+  Rustic - config review and cohesion 
+  Charcoal Pit - just needs recipie cohesion and config check
+  ?Impractical Storage(1.11) - Hasen't been touched by auther since April
   Storage Drawers - no changes, might change recipie for controller
   ?Mana Wells Revived - no change
   ?Redstone Paste(1.11 only for now) - Either this or some other simple redstone mod
-  ??Soul Shards: The old Ways - Want some way to make spawner control, might forgo this and just make recipes
   Aether Legacy(1.11 for now) - Either this or some other unique dimension mod
   
 Biome and structure:
   Recurrent Complex - add, remove, tweak structures; test structure ratio
   ?Traverse - no BoP, but want some sort of world gen mod
   ??NetherEx - needs full review for integration, rather unsure
+  ?Simple Gravel ores - could use this in making a tiered versions of ore deposits
  
 Modded Mobs:
-  ?Mowzie's Mobs
-  Ender Zoo(1.11) - (I really like owls)
+  ?Mowzie's Mobs - looks interesting, testing required
+  Ender Zoo(1.11) (12.1 alt EmberRoot Zoo) - I really like owls
   ??Animania (I've had issues with this hitting TPS) - I like it but I may just set it to only vanilla animals if they interact with
           the blocks in the mod. 
   
 Gameplay change mods:
-  Nutrition (SquareWheel)
-  Ore flowers
-  Tough As Nails
-    -Bottled Milk
-  Rough Mobs
+  Nutrition (SquareWheel) - default is good but could always create unique 
+  Ore flowers(1.11 for now) - as part of the sparse ore gen, allows for finding without digging forever. 
+  Tough As Nails - potentially tweak the health levels, maybe make the hearts used in some recipies and a rare drop from mobs 
+    -Bottled Milk - nice little addon
+  Rough Mobs - 
   Blood Moon
   Hardcore Darkness
   Restricted Portals
   Grave Stone (not sure which one)
   Dense Ore
   Carry On
+  ?Passable Leaves - config tuning 
   
 Core Mods:
   Cofh Core - Unique ore gen, large veins that are sparse and biome specific
@@ -78,5 +79,5 @@ Aesthetic:
   Earthworks
   Chisel and Bits
   Fairy Lights
-  (Unspecified Furniture mod, Maybe BiblioCraft)
+  Maybe: Homecraft Mineware(1.11)/Bibliocraft/
   Rainbow Oak Trees - Because pretty 
