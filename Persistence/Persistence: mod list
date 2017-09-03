@@ -12,13 +12,13 @@ Content Mods:
   Embers - no changes other than recipe cohesion
   Roots - integration with other magic mods
   Astral Sorcery - config review
-  Botania(1.11 currently... soon) - integration with other magic mods
-  Totemic - integration with other magic mods
+  Botania - integration with other magic mods
+  ?Totemic - integration with other magic mods
   Quark - slight tweaking
   ?Nether Chest - config review
   Rustic - config review and cohesion 
   Charcoal Pit - just needs recipie cohesion and config check
-  ?Impractical Storage(1.11) - Hasen't been touched by auther since April
+  ??Impractical Storage(1.11) - Hasen't been touched by auther since April
   Storage Drawers - no changes, might change recipie for controller
   ?Mana Wells Revived - no change
   ?Redstone Paste(1.11 only for now) - Either this or some other simple redstone mod
@@ -33,11 +33,11 @@ Biome and structure:
 Modded Mobs:
   ?Mowzie's Mobs - looks interesting, testing required
   Ender Zoo(1.11) (12.1 alt EmberRoot Zoo) - I really like owls
-  ??Animania (I've had issues with this hitting TPS) - I like it but I may just set it to only vanilla animals if they interact with
+  ??Animania(1.11) (I've had issues with this hitting TPS) - I like it but I may just set it to only vanilla animals if they interact with
           the blocks in the mod. 
   
 Gameplay change mods:
-  Nutrition (SquareWheel) - default is good but could always create unique 
+  Nutrition (SquareWheel) - default is good but could always create unique fields
   Ore flowers(1.11 for now) - as part of the sparse ore gen, allows for finding without digging forever. 
   Tough As Nails - potentially tweak the health levels, maybe make the hearts used in some recipies and a rare drop from mobs 
     -Bottled Milk - nice little addon
