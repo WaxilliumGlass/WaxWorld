@@ -1,3 +1,52 @@
 Current ideas:
-
+  Integrate Roots 2 with Botania, herbs required in recipies. Also embers crystals, used in rune. Make the herbs part of flower crafting.
+  
+  Separate flue from slime in the ore dict, want it used for specific things. Well, I could just specify glue on
+  the recipes I want instead of oredict. 
+  
+  Flight from Botanai is limited to until after finishing Twilight Forest. Probably achievement locked. 
+  Also may turn off the Relic for extending flight. 
+  
+  Glimmer augment and lamp locked until light queen (whatever that bug is, TF) is aquired.
+  
+  Charcoal made using woodpiles from Forestry, used as a none consumed fire block for the cauldron (BWM) (I think coal gets consumed)
+  
+  Alloy is either made using grit or in the Alloy Kiln. 
+  Grit is made with the grinder only. 
+  
+  Comforts mod? Could have this used as a none spawn setting beds for the first part and have the bed require more work. 
+  
 Dismissed ideas for this pack:
+  Iron gravel, but inst4ead of smelting it when it's broken it drops iron nuggets and gravel. 
+  Iron gravel will be around due to ore deposits being rare. Just enough to get people started. Well... maybe
+  
+  Ore is rare and is prospected using flowers/bone meal?? (if the mod updates)
+  
+  Ratios is 1x, 1.5x, 2x for normal ore
+  -furnace, smelter, crusher-
+  Poor ore? Might have to make by hand
+  =2 nuggets? 
+  -will be prevalent
+  
+  Could I use Modular Machinery to make a tool crafting station for metal tools instead of Tinker's? Retexture blocks probably, 
+  more in line with IE (not happening in EoT)
+  
+  Tinker's COnstruct
+  {
+    Silk touch jewell locked until a tool is attained or enchanted with it. Is it possible? Same with fortune. 
+    Can I limit the levels of them on tools so the normal mods can still has a place?
+    
+    Will need an itme reuiqred to get speed augment. 
+    
+    Smelting Jewell either locked behind Embers or TF or both
+    
+    mining hammers locked until a hammer weapon is attained, potentially one of Mozie's mobs. 
+    
+    Turn off Quark hoe grass harvesting, sythe is for that. 
+    
+    Clever will need an item unlock as well. 
+    
+    Have the blue and green slime crystals used in things? The slime flower from Botania? 
+    
+    Turn off most alloying in TC smeltery other than manalian and pig iron. 
+  }
