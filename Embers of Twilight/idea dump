@@ -1,11 +1,10 @@
 Current ideas:
-  Integrate Roots 2 with Botania, herbs required in recipies. Also embers crystals, used in rune. Make the herbs part of flower crafting.
+  Integrate Roots 2 with Botania, herbs required in recipies. Also embers crystals, used in rune. 
+  Make the herbs part of flower crafting.
   
-  Separate flue from slime in the ore dict, want it used for specific things. Well, I could just specify glue on
-  the recipes I want instead of oredict. 
+  Separate flue from slime in the ore dict, want it used for specific things. Well, I could just specify glue on the recipes I want instead of oredict. 
   
-  Flight from Botanai is limited to until after finishing Twilight Forest. Probably achievement locked. 
-  Also may turn off the Relic for extending flight. 
+  Flight from Botanai is limited to until after finishing Twilight Forest. Probably achievement locked. Also may turn off the Relic for extending flight. 
   
   Glimmer augment and lamp locked until light queen (whatever that bug is, TF) is aquired.
   
@@ -16,6 +15,65 @@ Current ideas:
   
   Comforts mod? Could have this used as a none spawn setting beds for the first part and have the bed require more work. 
   
+  Naturally generating nether portals and prevention of making your own? 
+  
+  Rune Ideas:
+    need to find what I wan't to copy from the other rune pack
+    a short range teleport between two rune setups
+    use it as a crafting mechanic, could use slight variation for each 
+    Use it to make liquids?
+    Have the runic alter form Botania be made using runic dust. (living rock, mana dimond and 4 dust)
+    Mysterious Vessel making, basically use an existing one and copy it. Depends on the thing itself. 
+    (runes of gluttony and wrath, plus some soul steel?)
+    Uncrafting table from TF
+    Embers/Botania book crafted? Probably not the Botania book, since I want to make the mod locked behond the book but early game.
+    Ways to make/ duplicate Roots 2 books(if I decide to change it, but Roots is early game)
+    Journal books can be crafted this way with a book and the Item that unlocked that achievement(potentially)
+    
+   Botania book locked behind Roots 2 books
+   
+   Change cave structures to be wider and open slightly but less caves overall. 
+   Does BWM stratafication change just the minimum level or also the mining time, is it to much or just a little different?
+   
+   Have pavers, concrete and asphalt increase walking speed slightly, probably through the functions of BWM
+   
+   TaN: look into the configs of drinks, like adding some
+   Look into temp controls, like can I set Twilight temps? Also seeing the new configs
+   
+   TF beans unable to be used until a certain point in Botania, and that point can't be reached without Roots being done. 
+   TF Ember Lamp can't be used until a certian point of Embers completed. 
+   
+   Can I disable an item from being used in general until conditions meet? Like you could get the beans but they 
+   can't be right clicked/used? 
+   
+   Do I have blocks that I want to change the drops of? Make it a single initial drop, part of game stages? Do I want multiple but some with greater chance? 
+   
+   Artisan morters - should I replace the rest of them, and just have these in world ones used? 
+   Also how can things be automated, through the crusher? How should the tiers be used? (maybe)
+   
+   Artisan tables - use them but needd to balance blocks you only craft every now and agian vs often made things. 
+   Can it be automated? How does the uncrafting table react? 
+   
+   Turn off Forestry backpacks, also get the mod that makes IE crates not able to hold thier inventory when broken. Black list shulker boxes from the main backpack. 
+   
+   Can I limit the growth of a plant to a specific dimension? Like make normal crops be grown in overworld whiel special plants in TF.
+   
+   If I could specify uncrafting recipes I could make a part of the progression related to getting an item and breaking it down to use it's parts. 
+   
+   Make it so you need to either supply the CfBh sink with filters for clean water or have a distillation tower pumping clean water into it. How feasible is it, I know the tower is but what about the sink? Can I change what liquids it accepts? I could have a block that attaches to the pipes and requires the filters to run(slower than the tower), however I would still have to make the sink accept the new liquid. By-products of the tower is salt with potentially piles of sand and/or gravel. 
+   
+   IE batteries either have lower storage or lose it when broken. The idea is that batteries shouldn't store large amounts, they only act as a buffer with the incetives to build consistent power gen. Also if you need consistent portable power there's the gas gen. 
+   IE cables: I'm looking to encourage structured wiring. However since machines can expect any power supply this can be difficult to 
+   incluence. 
+   Low tier - more efficient over the short range
+   Mid tier - lose over more than a jump or two (probably consistent lose)
+   Hight tier - more efficient over long range
+   
+   Inspirations - depending on how the TaN compatibility is I'll turn off one or two of the normal recipies. 
+   Make the rope recipe using hemp but have it slightly different due to the BWM rope. I could also use the texture from it on the BWM rope. 
+   
+   Progression is achievement locked, next one in line is hidden/masked. The hints are given through journal books that are gotten with most achievements. There should be a mod/method that allows me to do that without making the books specific items. Journal books are not numbered, but are labeled with situational titles. 
+   
 Dismissed ideas for this pack:
   Iron gravel, but inst4ead of smelting it when it's broken it drops iron nuggets and gravel. 
   Iron gravel will be around due to ore deposits being rare. Just enough to get people started. Well... maybe
@@ -28,8 +86,7 @@ Dismissed ideas for this pack:
   =2 nuggets? 
   -will be prevalent
   
-  Could I use Modular Machinery to make a tool crafting station for metal tools instead of Tinker's? Retexture blocks probably, 
-  more in line with IE (not happening in EoT)
+  Could I use Modular Machinery to make a tool crafting station for metal tools instead of Tinker's? Retexture blocks probably, more in line with IE (not happening in EoT)
   
   Tinker's COnstruct
   {
@@ -50,3 +107,6 @@ Dismissed ideas for this pack:
     
     Turn off most alloying in TC smeltery other than manalian and pig iron. 
   }
+  
+  Rune ideas
+  Use it to make liquids? I could make the mana liquid from thermal foundaiton
