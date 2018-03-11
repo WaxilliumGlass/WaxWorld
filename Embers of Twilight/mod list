@@ -1,4 +1,4 @@
--------
+------------------------------
 Current mod list:
   
   Major content:
@@ -17,7 +17,7 @@ Current mod list:
     Pam's Harvestcraft
     Animania (Potential)
     Signals (potential)
-    Rustic (hmm)
+    Rustic (hmm, review required for balencing)
   
   Additions:
     
@@ -31,6 +31,7 @@ Current mod list:
     JEI Bees
     Carry On
     Wearable Backpacks
+    Impractical Storage
     varied Commodities (big maybe)
     Primitive Mobs (big maybe with need to edit configs)
     Flowing blocks (major testing required, very likely to be removed)
@@ -54,7 +55,7 @@ Current mod list:
     ModTweaker
     LootTweaker
     UniDict (maybe, might not need it)
-    Artisan Worktables
+    Artisan Worktables (Debating still since there are already several types of crafting)
     
   QoL:
     
@@ -91,9 +92,9 @@ Current mod list:
     SmoothWater
     Chunk-Pregenerator 
     
+---------------------------------------
 Mods Removed out:
     Totemic (didn't quit find a way for it to mesh with the others and not feature overlap) 
     Tinker's Construct (over shadowed other mods tools, which I didn't want happening)(though I wish I could keep just the smeltery)
-    Battle Towers (seems undeeded)
     Storage Drawers (makes inventory trivial in certain respects, though I may put it back in but nerf)
     Dynamic Trees (removed due to unsurity of pack scope and potential performace issues)(also might not go well with TF)
